@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1628088156 source:/home/nanda/Desktop/Sanjana/personal/CGV/minipro/main.cpp
+	<iostream>
+	<map>
+	<math.h>
+	<vector>
+	<set>
+	<queue>
+	<sstream>
+	"ParkingLot.h"
+
+1471978687 /usr/include/GL/glut.h
+	"freeglut_std.h"
+
+1471978687 /usr/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1549645978 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<windows.h>
+	<GL/glext.h>
+
+1549645978 /usr/include/GL/gl_mangle.h
+
+1549645978 /usr/include/GL/glext.h
+	<windows.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+	<stddef.h>
+
+1549645978 /usr/include/KHR/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1535053955 /usr/include/stdint.h
+	<bits/libc-header-start.h>
+	<bits/types.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+	<bits/stdint-intn.h>
+	<bits/stdint-uintn.h>
+
+1535053955 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1535053955 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1535053955 /usr/include/stdc-predef.h
+
+1463869743 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1463869743 /usr/include/GL/glu_mangle.h
+
+1535053955 /usr/include/stdlib.h
+	<bits/libc-header-start.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<bits/floatn.h>
+	<bits/types/locale_t.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1535053955 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1535053955 /usr/include/math.h
+	<bits/libc-header-start.h>
+	<bits/types.h>
+	<bits/math-vector.h>
+	<bits/floatn.h>
+	<bits/flt-eval-method.h>
+	<bits/fp-logb.h>
+	<bits/fp-fast.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-helper-functions.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/mathcalls-narrow.h>
+	<bits/iscanonical.h>
+	<bits/mathinline.h>
+	<bits/math-finite.h>
+	<bits/math-finite.h>
+	<bits/math-finite.h>
+	<bits/math-finite.h>
+	<bits/math-finite.h>
+	<bits/math-finite.h>
+	<bits/math-finite.h>
+	<bits/math-finite.h>
+	<bits/math-finite.h>
+	<bits/math-finite.h>
+
+1628088262 /home/nanda/Desktop/Sanjana/personal/CGV/minipro/include/ParkingLot.h
+	<iostream>
+	<map>
+	<math.h>
+	<vector>
+	<set>
+	<queue>
+	<sstream>
+
+1628088263 source:/home/nanda/Desktop/Sanjana/personal/CGV/minipro/src/ParkingLot.cpp
+	"ParkingLot.h"
+	<iostream>
+	<map>
+	<math.h>
+	<vector>
+	<set>
+	<queue>
+	<sstream>
+
